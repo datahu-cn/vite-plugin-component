@@ -23,7 +23,7 @@ export default defineConfig({
 
 ### Sample
 
-https://github.com/datahu-cn/component-template[https://github.com/datahu-cn/component-template]
+[https://github.com/datahu-cn/component-template](https://github.com/datahu-cn/component-template)
 
 ### Install
 
